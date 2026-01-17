@@ -56,9 +56,9 @@ Power BI • KPI Design • Dashboards • Reporting • Data Workflow Optimizat
 ---
 
 ### 📈 GitHub Activity
-![GitHub Contributions](https://github.com/RedDev.png?tab=overview&from=2025-01-01&to=2025-12-31)
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RedDev&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ---
