@@ -61,6 +61,10 @@ Power BI • KPI Design • Dashboards • Reporting • Data Workflow Optimizat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedDev&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RedDev&theme=tokyonight" />
+</p>
+
 ---
 
 ### 🔗 Contact & Profiles  
