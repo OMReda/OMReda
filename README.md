@@ -55,15 +55,6 @@ Power BI • KPI Design • Dashboards • Reporting • Data Workflow Optimizat
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RedDev&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
 ### 🔗 Contact & Profiles  
 📩 Email: **oubuisnessonly@gmail.com**  
 💼 LinkedIn: **https://linkedin.com/in/oumedred**  
