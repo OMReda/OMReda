@@ -4,7 +4,7 @@
 <p align="center">Passionate developer bridging the gap between raw data and smart solutions.</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,php" />
   </a>
 </p>
 
