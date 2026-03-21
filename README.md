@@ -1,65 +1,53 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=$+whoami;Mohamed+Reda+Oussama;$+role;Computer+Science+Student;$+focus;Backend+%26+Systems" />
-</h1>
-
+<h1 align="center">Mohamed Reda Oussama</h1>
 <h3 align="center">OMReda · Morocco 🇲🇦</h3>
 
 <p align="center">
-  Computer science student focused on backend systems, system-level programming, and structured application design.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eaeaea&height=120&section=header"/>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,php,flask,nextjs,html,css,git,linux" />
-  </a>
+  Computer science student building projects, learning systems, and exploring different areas of tech.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,php,flask,nextjs,html,css,git,linux" />
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🎓 Computer Science student 
-- 🧠 Studying: **Data Structures, OS, Networks, Databases, AI** 
-- 👨‍💻 Interested in backend systems and system-level development  
-- ⚙️ Focused on writing clean, modular, and maintainable code  
-- 🤝 Open to **internships**
+- 🎓 Computer Science student (EMSI) — Expected 2028  
+- 📚 Studying: Data Structures, OS, Networks, Databases, AI  
+- 👨‍💻 Building projects and exploring different fields  
+- ⚙️ Interested in systems, backend, and practical problem solving  
+- 🤝 Open to internships and collaborations  
 
 ---
 
 ### 🚀 Projects
 
 **Flowly — Financial Management Platform**  
-- Full-stack system using Next.js, TypeScript, SQLite  
-- Structured financial logic with AI-assisted insights  
-- Modular architecture for data tracking  
+Full-stack app using Next.js, TypeScript, SQLite  
 
 **UNIsupport — Academic Platform**  
-- Backend with relational database design  
-- Centralized academic support management  
-- Improved communication workflows  
+Backend system with relational database  
 
-**AI System Monitor — Monitoring Tool**  
-- Real-time system monitoring in C++  
-- Python-based log analysis  
-- Flask dashboard for visualization  
+**AI System Monitor**  
+C++ monitoring tool + Python log analysis + Flask dashboard  
 
 ---
 
-### 🛠️ Technical Skills
-**Languages:** C • C++ • Python • JavaScript • TypeScript • PHP  
-**Backend:** Flask • Next.js • REST APIs  
-**Databases:** MySQL • SQLite • SQL Server  
-**Tools:** Git • Linux • GitHub  
+### 🛠️ Skills
+C • C++ • Python • JavaScript • TypeScript • PHP  
+Flask • Next.js • SQL • MySQL • SQLite • Git • Linux  
 
 ---
 
-### 📜 Certifications
-- Leadership Development for Engineers — Coursera  
-- Leadership Essentials — Coursera  
-
----
-
-### 🌍 Languages
-Arabic (Native) • French (Professional) • English (Professional)  
+### 📊 Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMReda&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMReda&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
@@ -70,4 +58,6 @@ Arabic (Native) • French (Professional) • English (Professional)
 
 ---
 
-> Building structured and reliable systems while continuously improving.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaeaea,100:ffffff&height=100&section=footer"/>
+</p>
