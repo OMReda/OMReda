@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mohamed+Reda+Oussama;Backend+%7C+Data+%7C+AI+Engineer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Mohamed+Reda+Oussama;Computer+Science+Student;Backend+%26+Systems+Focused" />
 </h1>
 
 <h3 align="center">OMReda · Morocco 🇲🇦</h3>
 
 <p align="center">
-  Engineering student focused on backend systems, data-driven solutions, and intelligent applications.
+  Computer science student focused on building structured systems, backend applications, and intelligent tools.
 </p>
 
 <p align="center">
@@ -17,72 +17,74 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Engineering student in Computer Science
-- 👨‍💻 Specialized in **Backend Development, Data Systems, and AI**  
-- 🧠 Strong foundation in **algorithms, databases, and system design**  
-- ⚙️ Focused on building **scalable, modular, and maintainable systems**  
-- 🤝 Open to **internships and technical collaborations**
+- 🎓 Computer Science student 
+- 🧠 Studying **Data Structures, Algorithms, Operating Systems, Networks, Databases, and AI**  
+- 👨‍💻 Interested in **backend development, system-level programming, and structured architectures**  
+- ⚙️ Focused on building **modular and maintainable systems**  
+- 🤝 Open to **internships and collaborations**
 
 ---
 
 ### 🚀 Projects
 
-**💰 Flowly – Financial Management Platform**  
-- Full-stack app using **Next.js, TypeScript, SQLite**  
-- AI-enhanced financial modeling  
-- Modular architecture for structured financial workflows  
+**💰 Flowly — Financial Management & Workflow Platform**  
+- Built using **Next.js, TypeScript, SQLite**  
+- Designed structured financial logic with AI-assisted insights  
+- Implemented a modular system for data tracking  
 
-**🎓 UNIsupport – Academic Platform**  
-- Centralized system for managing academic support requests  
-- Backend powered by relational databases  
-- Improved communication between students & administration  
+**🎓 UNIsupport — Academic Support Platform**  
+- Developed a platform to manage academic support requests  
+- Built a backend using a relational database  
+- Improved communication workflows  
 
-**🖥️ AI System Monitor**  
-- Real-time monitoring tool built with **C++**  
-- Python-based intelligent log analysis  
-- Flask dashboard for system visualization  
+**🖥️ AI System Monitor — System Monitoring Tool**  
+- Built a real-time monitoring tool using **C++**  
+- Integrated Python-based log analysis  
+- Created a Flask dashboard for visualization  
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Languages:**  
-Python • C/C++ • JavaScript • TypeScript • PHP  
+**Programming:**  
+C • C++ • Python • JavaScript • TypeScript • PHP  
 
-**Backend & Systems:**  
-Flask • Next.js • REST APIs • System Design  
+**Web & Backend:**  
+Next.js • Flask • REST APIs • HTML • CSS  
 
-**Data & Databases:**  
-SQL • MySQL • SQLite • SQL Server  
+**Databases:**  
+MySQL • SQLite • SQL Server  
 
-**Tools:**  
-Git • Linux • GitHub • Jupyter  
+**Tools & Environment:**  
+Git • GitHub • Linux  
 
----
-
-### 📚 Currently Learning
-- Data Analysis & Visualization  
-- Machine Learning Foundations  
-- Power BI  
-- Cybersecurity Basics  
-- System Design  
+**Core Strengths:**  
+Debugging • System Monitoring • Log Analysis • Modular Design  
 
 ---
 
-### 💡 What I Bring
-- Strong **problem-solving mindset**  
-- Ability to design and build **scalable systems**  
-- Experience in **debugging & optimization**  
-- Clear communication & teamwork  
+### 📜 Certifications
+- Leadership Development for Engineers — Coursera  
+- Leadership Essentials — Coursera  
+
+---
+
+### 🧠 Soft Skills
+Problem Solving • Teamwork • Adaptability • Communication • Leadership  
+
+---
+
+### 🌍 Languages
+Arabic (Native) • French (Professional) • English (Professional)  
 
 ---
 
 ### 🔗 Contact
 📩 Email: **oubuisnessonly@gmail.com**  
 💼 LinkedIn: **https://linkedin.com/in/oumedred**  
-💻 GitHub: **https://github.com/OMReda**  
+💻 GitHub: **https://github.com/OMReda**
 
 ---
 
 ### ⚡ Statement
-> *Designing efficient systems and turning complex problems into clean, scalable solutions.*
+> *Building clean, structured, and reliable systems while continuously learning and improving.*
