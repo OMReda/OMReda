@@ -20,7 +20,7 @@
 
 ### 🌟 About Me
 - 🎓 Computer Science student  
-- ⚙️ Interested in backend systems and performance and Data
+- ⚙️ Interested in backend systems, performance and Data
 - 📚 Studying: Data Structures, OS, Networks, Databases, AI  
 - 👨‍💻 Building real-world projects  
 - 🤝 Open to internships and collaborations  
