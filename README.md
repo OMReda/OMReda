@@ -1,4 +1,7 @@
-<h1 align="center">RedDev</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1800&pause=800&color=000000&center=true&vCenter=true&width=300&lines=RedDev" />
+</h1>
+
 <h3 align="center">OMReda · Morocco 🇲🇦</h3>
 
 <p align="center">
@@ -6,7 +9,7 @@
 </p>
 
 <p align="center">
-  Computer science student building projects, learning systems, and exploring different areas of tech.
+  Computer science student focused on backend systems, performance, and real-world problem solving.
 </p>
 
 <p align="center">
@@ -16,10 +19,10 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Computer Science student 
+- 🎓 Computer Science student  
+- ⚙️ Interested in backend systems and performance  
 - 📚 Studying: Data Structures, OS, Networks, Databases, AI  
-- 👨‍💻 Building projects and exploring different fields  
-- ⚙️ Interested in systems, backend, and practical problem solving  
+- 👨‍💻 Building real-world projects  
 - 🤝 Open to internships and collaborations  
 
 ---
@@ -27,19 +30,26 @@
 ### 🚀 Projects
 
 **Flowly — Financial Management Platform**  
-Full-stack app using Next.js, TypeScript, SQLite  
+Full-stack app with authentication, transaction tracking, and analytics dashboard  
+**Tech:** Next.js, TypeScript, SQLite  
+
+---
 
 **UNIsupport — Academic Platform**  
-Backend system with relational database  
+Backend system with relational database design and structured data management  
+**Tech:** PHP, MySQL  
+
+---
 
 **AI System Monitor**  
-C++ monitoring tool + Python log analysis + Flask dashboard  
+System monitoring tool with C++ data collection, Python log analysis, and Flask dashboard  
+**Tech:** C++, Python, Flask  
 
 ---
 
 ### 🛠️ Skills
-C • C++ • Python • JavaScript • TypeScript • PHP  
-Flask • Next.js • SQL • MySQL • SQLite • Git • Linux  
+**Languages:** C • C++ • Python • JavaScript • TypeScript • PHP  
+**Tools & Frameworks:** Flask • Next.js • SQL • MySQL • SQLite • Git • Linux  
 
 ---
 
@@ -52,9 +62,9 @@ Flask • Next.js • SQL • MySQL • SQLite • Git • Linux
 ---
 
 ### 🔗 Contact
-📩 oubuisnessonly@gmail.com  
-💼 linkedin.com/in/oumedred  
-💻 github.com/OMReda  
+📩 Email: oubuisnessonly@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/oumedred  
+💻 GitHub: https://github.com/OMReda  
 
 ---
 
