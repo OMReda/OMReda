@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Mohamed+Reda+Oussama;Computer+Science+Student;Backend+%26+Systems+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=$+whoami;Mohamed+Reda+Oussama;$+role;Computer+Science+Student;$+focus;Backend+%26+Systems" />
 </h1>
 
 <h3 align="center">OMReda · Morocco 🇲🇦</h3>
 
 <p align="center">
-  Computer science student focused on building structured systems, backend applications, and intelligent tools.
+  Computer science student focused on backend systems, system-level programming, and structured application design.
 </p>
 
 <p align="center">
@@ -18,48 +18,37 @@
 
 ### 🌟 About Me
 - 🎓 Computer Science student 
-- 🧠 Studying **Data Structures, Algorithms, Operating Systems, Networks, Databases, and AI**  
-- 👨‍💻 Interested in **backend development, system-level programming, and structured architectures**  
-- ⚙️ Focused on building **modular and maintainable systems**  
-- 🤝 Open to **internships and collaborations**
+- 🧠 Studying: **Data Structures, OS, Networks, Databases, AI** 
+- 👨‍💻 Interested in backend systems and system-level development  
+- ⚙️ Focused on writing clean, modular, and maintainable code  
+- 🤝 Open to **internships**
 
 ---
 
 ### 🚀 Projects
 
-**💰 Flowly — Financial Management & Workflow Platform**  
-- Built using **Next.js, TypeScript, SQLite**  
-- Designed structured financial logic with AI-assisted insights  
-- Implemented a modular system for data tracking  
+**Flowly — Financial Management Platform**  
+- Full-stack system using Next.js, TypeScript, SQLite  
+- Structured financial logic with AI-assisted insights  
+- Modular architecture for data tracking  
 
-**🎓 UNIsupport — Academic Support Platform**  
-- Developed a platform to manage academic support requests  
-- Built a backend using a relational database  
+**UNIsupport — Academic Platform**  
+- Backend with relational database design  
+- Centralized academic support management  
 - Improved communication workflows  
 
-**🖥️ AI System Monitor — System Monitoring Tool**  
-- Built a real-time monitoring tool using **C++**  
-- Integrated Python-based log analysis  
-- Created a Flask dashboard for visualization  
+**AI System Monitor — Monitoring Tool**  
+- Real-time system monitoring in C++  
+- Python-based log analysis  
+- Flask dashboard for visualization  
 
 ---
 
 ### 🛠️ Technical Skills
-
-**Programming:**  
-C • C++ • Python • JavaScript • TypeScript • PHP  
-
-**Web & Backend:**  
-Next.js • Flask • REST APIs • HTML • CSS  
-
-**Databases:**  
-MySQL • SQLite • SQL Server  
-
-**Tools & Environment:**  
-Git • GitHub • Linux  
-
-**Core Strengths:**  
-Debugging • System Monitoring • Log Analysis • Modular Design  
+**Languages:** C • C++ • Python • JavaScript • TypeScript • PHP  
+**Backend:** Flask • Next.js • REST APIs  
+**Databases:** MySQL • SQLite • SQL Server  
+**Tools:** Git • Linux • GitHub  
 
 ---
 
@@ -69,22 +58,16 @@ Debugging • System Monitoring • Log Analysis • Modular Design
 
 ---
 
-### 🧠 Soft Skills
-Problem Solving • Teamwork • Adaptability • Communication • Leadership  
-
----
-
 ### 🌍 Languages
 Arabic (Native) • French (Professional) • English (Professional)  
 
 ---
 
 ### 🔗 Contact
-📩 Email: **oubuisnessonly@gmail.com**  
-💼 LinkedIn: **https://linkedin.com/in/oumedred**  
-💻 GitHub: **https://github.com/OMReda**
+📩 oubuisnessonly@gmail.com  
+💼 linkedin.com/in/oumedred  
+💻 github.com/OMReda  
 
 ---
 
-### ⚡ Statement
-> *Building clean, structured, and reliable systems while continuously learning and improving.*
+> Building structured and reliable systems while continuously improving.
