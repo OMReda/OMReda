@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1800&pause=800&color=000000&center=true&vCenter=true&width=300&lines=RedDev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1800&pause=800&color=EAEAEA&center=true&vCenter=true&width=300&lines=RedDev" />
 </h1>
 
 <h3 align="center">OMReda · Morocco 🇲🇦</h3>
