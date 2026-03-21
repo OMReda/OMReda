@@ -16,7 +16,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Computer Science student (EMSI) — Expected 2028  
+- 🎓 Computer Science student 
 - 📚 Studying: Data Structures, OS, Networks, Databases, AI  
 - 👨‍💻 Building projects and exploring different fields  
 - ⚙️ Interested in systems, backend, and practical problem solving  
