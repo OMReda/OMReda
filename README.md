@@ -17,7 +17,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Engineering student in Computer Science (EMSI)  
+- 🎓 Engineering student in Computer Science
 - 👨‍💻 Specialized in **Backend Development, Data Systems, and AI**  
 - 🧠 Strong foundation in **algorithms, databases, and system design**  
 - ⚙️ Focused on building **scalable, modular, and maintainable systems**  
