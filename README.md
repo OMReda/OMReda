@@ -37,7 +37,7 @@ Full-stack app with authentication, transaction tracking, and analytics dashboar
 
 **UNIsupport — Academic Platform**  
 Backend system with relational database design and structured data management  
-**Tech:** PHP, MySQL  
+**Tech:** PHP, SQLite 
 
 ---
 
