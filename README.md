@@ -55,7 +55,7 @@ System monitoring tool with C++ data collection, Python log analysis, and Flask 
 
 ### 📊 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMReda&show_icons=true&theme=default&hide_border=true" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=OMReda&show_icons=true&theme=default&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMReda&theme=default&hide_border=true" height="150"/>
 </p>
 
